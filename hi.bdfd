@@ -1,0 +1,9 @@
+Here is a command that makes the bot respond with the word "Hi"
+
+__________________________________________________________________
+
+prefix: <your bot prefix> hi
+Language: BDScript
+
+$nomention
+Hi $username

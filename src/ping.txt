@@ -1,4 +1,0 @@
-$nomention
-$c[Remove the $nomention if you want it to ping the user]
-Pong $ping ms
-$c[Thats it :)]

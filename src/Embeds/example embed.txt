@@ -1,1 +1,14 @@
+$nomention
 
+$title[This is the embed title]
+
+$c[Above we are setting the embed title as "This is the embed title" which is what the title will show when the embed is triggered]
+
+$description[This is the description of the embed]
+
+$c[Above we are setting the embed description as "This is the description of the embed" which is what it will show when the embed is triggered]
+
+
+$footer[This is the footer]
+
+$c[Above we are setting the embeds footer as "This is the footer" which is what the footer will show when the footer is triggered]

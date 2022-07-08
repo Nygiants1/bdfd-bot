@@ -1,9 +1,0 @@
-This is a simple discord embed:
-
-trigger: <your bot prefix>Embed
-Language: BDScript
-__________________________________
-
-$title[this is the embed title]
-$description[this is the embed description]
-$footer[This is the embed footer]

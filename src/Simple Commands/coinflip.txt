@@ -1,0 +1,2 @@
+$nomention
+You flipped the coin and it landed on $random[heads;tails]
